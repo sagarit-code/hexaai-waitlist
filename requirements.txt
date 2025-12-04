@@ -4,3 +4,4 @@ pymongo
 jinja2
 python-multipart
 pydantic[email]
+python-dotenv
