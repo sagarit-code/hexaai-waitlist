@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 pymongo
-python-multipart
 jinja2
+python-multipart
+pydantic[email]
